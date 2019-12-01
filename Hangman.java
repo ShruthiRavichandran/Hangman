@@ -49,7 +49,7 @@ public class Hangman
 
           case -1:
 
-          System.out.println("Sorry, not there");
+          System.out.println("Sorry, it is not there");
           failedGuesses++;
           break;
 
